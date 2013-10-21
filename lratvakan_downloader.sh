@@ -4,10 +4,11 @@
 #ամսաթիվ։ 2012-10-20
 #գիթհաբում։ https://github.com/hanumanum/Lratvakan-radio-podcast-downloaderX
 
-#RSS հղումների ֆայլ
-FILENAME=feeds
 #Փոթքաստները պահել այստեղ
 PODCASTDIRECTORY=~/Podcasts/LratvakanRadio/
+
+#RSS հղումների ֆայլ
+FILENAME=feeds
 #ժամանակավոր դիրեկտորիա
 TMPDIRECTORY=/tmp/lratvakan
 
