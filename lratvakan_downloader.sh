@@ -105,7 +105,7 @@ cat $f | while read LINE
 				
 				if [ -e "$RESULTFILE" ]; then
 				  echo $AUDOID>>downloaded
-				  newcount=`expr $newcount + 1`
+				  newcount=`expr $newcount + 1` #TODO: չի հաշվում քանակը
 				fi
 				
 				echo "====================ՖՌՌԱ===================="
